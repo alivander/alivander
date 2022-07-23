@@ -1,5 +1,4 @@
 # Сайт-портфолио
-[alivander.ru](https://alivander.ru)
 
 Алина Ваниева
 
@@ -7,19 +6,13 @@
 
 # Навыки
 
-* HTML5
-* CSS3
-* Sass
-* SCSS
-* Less
-* Stylus
-* Pug
-* Git
-* GitHub
-* Gulp
+* HTML5, CSS3, Pixel Perfect, Mobile First, Responsive, Adaptive
+* Sass, Less, Stylus, SCSS, PostCSS, StyleLint
+* HTML-templates, Pug
+* Git, GitHub
+* Gulp, Webpack
 * Внешняя оптимизация сайта
 * БЭМ
-* Верстка Pixel Perfect
 
 # Образование
 
@@ -61,6 +54,5 @@ CBS Consalting, Начальник отдела по подбору персон
 
 # Контакты
 
-* Почта: vanieva.alina@yandex.ru
-* Соц.сети: vk.com/ali_van_der
-* Skype: vanieva.alina
+* Почта: vanieva.alina@gmail.com
+* Telegram: https://t.me/AlivanderV
