@@ -4,9 +4,11 @@ Frontend Software Engineer & Team Lead, work experience 5 years.
 
 [Yandex](https://yandex.ru/), [auto.ru](https://yandex.ru/)
 
+
 More abount me:
 
 https://www.linkedin.com/in/alivander/
+
 https://medium.com/@alivander
 
 
