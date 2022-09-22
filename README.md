@@ -1,7 +1,6 @@
 Hi, I'm Alina
 
 Frontend Software Engineer & Team Lead, work experience 5 years.
-
 [Yandex](https://yandex.ru/), [auto.ru](https://yandex.ru/)
 
 
